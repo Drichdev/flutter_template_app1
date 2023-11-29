@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const Center(
-      child: Text("Hello world"),
+      child: Text("Hello world"), // That's the beginning of your application
     );
   }
 }
