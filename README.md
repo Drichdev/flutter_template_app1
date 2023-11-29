@@ -3,11 +3,11 @@
 ### Create your mini application in base of this files
 
 ###    lib
-###     |   models
-###     |      |
-###     |   views
-###     |      |
-###     |   Widgets
+###       |   models
+###       |      |
+###       |   views
+###       |      |
+###       |   Widgets
 ###    Main
 
 ### One disposition of files
