@@ -2,11 +2,11 @@
 
 ### Create your mini application in base of this files
 
-### lib
+### -lib
 ### _______models
 ### _______views
 ### _______Widgets
-### Main
+### -Main
 
 ### One disposition of files
 
